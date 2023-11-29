@@ -19,7 +19,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className="relative flex flex-col justify-center items-center">
           <p className="text-2xl font-bold text-center">
-            Simulado 2 Bimestre
+            Prova do 2 Bimestre
           </p>
         </div>
 
@@ -64,7 +64,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Painel Principal <span>-&gt;</span>
+              Dashboard <span>-&gt;</span>
             </h2>
            
           </Link>
