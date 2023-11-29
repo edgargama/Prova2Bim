@@ -2,11 +2,11 @@
 
 
 
-Página Inicial (/)
-Login (/login)
-Registro (/registro)
-Recuperação de Senha (/recover)
-Painel principal (dashboard) (/dashbord)
+Página Inicial (/).
+Login (/login).
+Registro (/registro).
+Recuperação de Senha (/recover).
+Painel principal (/dashbord).
 
 > **IMPORTANTE**: Este projeto usa a versão `13.1.6` do Next.js para evitar problemas de incompatibilidade com versões menores do `NodeJS 16`. 
 ## Como executar
