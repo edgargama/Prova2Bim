@@ -19,7 +19,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className="relative flex flex-col justify-center items-center">
           <p className="text-2xl font-bold text-center">
-            Prova do 2 Bimestre
+            Inova Week
           </p>
         </div>
 
